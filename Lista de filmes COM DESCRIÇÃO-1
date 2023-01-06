@@ -1,0 +1,190 @@
+#EXTM3U8
+#EXT-X-SESSION-DATA:DATA-ID="com.1_streamer.1.r2"
+#EXTINF:-1 tvg-name="CARTOON NETWORK HD" tvg-logo="http://4f.rs:80/images/699ef3d69981bdc911b445c582401a70.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
+#EXTM3U8
+#EXT-X-SESSION-DATA:DATA-ID="com.1_streamer.1.r2"
+#EXTINF:-1 tvg-name="A Filha do Rei" tmdb_id="245842" tvg-logo="https://image.tmdb.org/t/p/w780/o3U4733mGsmieBeqs4Sw2ze6n53.jpg" group-title="FILMES",A Filha do Rei 1
+( "info": )
+    "kinopoisk_url": "https://www.themoviedb.org/movie/245842",
+    "tmdb_id": 245842,
+    "name": "A Filha do Rei",
+    "o_name": "The King\u0027s Daughter",
+    "cover_big": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSmLUushIlmqFxFEB4uT6IM2ei2.jpg",
+    "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSmLUushIlmqFxFEB4uT6IM2ei2.jpg",
+    "releasedate": "2022-01-21",
+    "episode_run_time": 90,
+    "youtube_trailer": "n36A_mBwQ7Q",
+    "director": "Sean McNamara, Mathieu Turi",
+    "actors": "Pierce Brosnan, Kaya Scodelario, Benjamin Walker, Rachel Griffiths, Julie Andrews",
+    "cast": "Pierce Brosnan, Kaya Scodelario, Benjamin Walker, Rachel Griffiths, Julie Andrews",
+    "description": "Em busca de imortalidade, o rei Luís XIV rouba a força vital de uma sereia, mas tudo se complica quando sua filha ilegítima cria laços com a criatura mágica.",
+    "plot": "Em busca de imortalidade, o rei Luís XIV rouba a força vital de uma sereia, mas tudo se complica quando sua filha ilegítima cria laços com a criatura mágica.",
+    "age": "",
+    "mpaa_rating": "",
+    "rating_count_kinopoisk": 0,
+    "country": "Australia",
+    "genre": "Fantasia, Drama, Romance",
+    "backdrop_path": [
+      "https://image.tmdb.org/t/p/w1280/1GrURa0tEBIBjJ2EbeRsMP65YPK.jpg"
+    ],
+    "duration_secs": 5512,
+    "duration": "01:31:52",
+    "video": {
+      "index": 0,
+      "codec_name": "h264",
+      "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+      "profile": "Main",
+      "codec_type": "video",
+      "codec_time_base": "125/5994",
+      "codec_tag_string": "avc1",
+      "codec_tag": "0x31637661",
+      "width": 1024,
+      "height": 576,
+      "coded_width": 1024,
+      "coded_height": 576,
+      "has_b_frames": 0,
+      "sample_aspect_ratio": "1:1",
+      "display_aspect_ratio": "16:9",
+      "pix_fmt": "yuv420p",
+      "level": 31,
+      "chroma_location": "left",
+      "refs": 1,
+      "is_avc": "true",
+      "nal_length_size": "4",
+      "r_frame_rate": "2997/125",
+      "avg_frame_rate": "2997/125",
+      "time_base": "1/11988",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 66082500,
+      "duration": "5512.387387",
+      "bit_rate": "1525977",
+      "bits_per_raw_sample": "8",
+      "nb_frames": "132165",
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "VideoHandler"
+      }
+    },
+    "audio": {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_long_name": "AAC (Advanced Audio Coding)",
+      "profile": "LC",
+      "codec_type": "audio",
+      "codec_time_base": "1/44100",
+      "codec_tag_string": "mp4a",
+      "codec_tag": "0x6134706d",
+https://ip250112192.ahcdn.com/key=CmG1rKvJzQxhNcY0CqAUVw,s=,end=1673033948,ip=177.136,limit=1/state=Y7hAsYgn/buffer=5000000:13672893,5512.4/speed=1000000/referer=none,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/30/443/5/291270705/BR/movies/afilhadorei-dub-720p.mp4
+
+
+
+
+
+#EXTINF:-1 tvg-name="A Filha do Rei" tvg-logo="https://image.tmdb.org/t/p/w780/o3U4733mGsmieBeqs4Sw2ze6n53.jpg" group-title="FILMES",A Filha do Rei 2 (2022)
+<abbr>"Sinopse: Em busca de imortalidade, o rei Luís XIV rouba a força vital de uma sereia, mas tudo se complica quando sua filha ilegítima cria laços com a criatura mágica."
+http://23.237.120.2:8080/movie/y9odxro2/unfmbqmv/102598.mp4?token=TRNcUBZZEwoRVFwNBlYCDVRWC1RdCwVfBwgICFdUUwEAAgZVUAMJAQAUSRpAQEVcBVptXl0RWQgCAgQAXk0VR0VURm4MVRMKEQRcAQICAwpGGxBDUF4GGwgBBw5VUQYKDgMNHUdBWFQRDEcJAwQFDkYbEFJBRwZLXFFdZgIEQVtVVBYLRxMdElxYOlxWWVZXABUIFQkRTxtbQ0EbXA9CXlodFlMMRUNRR1NHAhEFAQpUFR4VWlwWV0ZCSBtcQ3VgFB0WVB1FVF5AXwpWEQ4VVBQDEBsbWhBmQFVCTRQEVl9TQxYLRwETHBFbBEBsV1hXClJRQ1BcDUoQChMIRE0VX1lfXUUKQ25AWlJHAl1BW1UZ
+
+
+
+#EXTINF:-1 tvg-name="A Filha do Rei" tvg-logo="https://image.tmdb.org/t/p/w780/o3U4733mGsmieBeqs4Sw2ze6n53.jpg" group-title="FILMES",A Filha do Rei 3 (2022)
+https://a-delivery32.mxdcontent.net/v/f08bad7c396e8fa4090514285a4e5d53.mp4?s=k3zvh2IqaaW8pk6xYe3dgw&e=1673040440&_t=1673027477
+( "info": )
+    "kinopoisk_url": "https://www.themoviedb.org/movie/245842",
+    "tmdb_id": 245842,
+    "name": "A Filha do Rei",
+    "o_name": "The King\u0027s Daughter",
+    "cover_big": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSmLUushIlmqFxFEB4uT6IM2ei2.jpg",
+    "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSmLUushIlmqFxFEB4uT6IM2ei2.jpg",
+    "releasedate": "2022-01-21",
+    "episode_run_time": 90,
+    "youtube_trailer": "n36A_mBwQ7Q",
+    "director": "Sean McNamara, Mathieu Turi",
+    "actors": "Pierce Brosnan, Kaya Scodelario, Benjamin Walker, Rachel Griffiths, Julie Andrews",
+    "cast": "Pierce Brosnan, Kaya Scodelario, Benjamin Walker, Rachel Griffiths, Julie Andrews",
+    "description": "Em busca de imortalidade, o rei Luís XIV rouba a força vital de uma sereia, mas tudo se complica quando sua filha ilegítima cria laços com a criatura mágica.",
+    "plot": "Em busca de imortalidade, o rei Luís XIV rouba a força vital de uma sereia, mas tudo se complica quando sua filha ilegítima cria laços com a criatura mágica.",
+    "age": "",
+    "mpaa_rating": "",
+    "rating_count_kinopoisk": 0,
+    "country": "Australia",
+    "genre": "Fantasia, Drama, Romance",
+    "backdrop_path": [
+      "https://image.tmdb.org/t/p/w1280/1GrURa0tEBIBjJ2EbeRsMP65YPK.jpg"
+    ],
+    "duration_secs": 5512,
+    "duration": "01:31:52",
+    "video": {
+      "index": 0,
+      "codec_name": "h264",
+      "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+      "profile": "Main",
+      "codec_type": "video",
+      "codec_time_base": "125/5994",
+      "codec_tag_string": "avc1",
+      "codec_tag": "0x31637661",
+      "width": 1024,
+      "height": 576,
+      "coded_width": 1024,
+      "coded_height": 576,
+      "has_b_frames": 0,
+      "sample_aspect_ratio": "1:1",
+      "display_aspect_ratio": "16:9",
+      "pix_fmt": "yuv420p",
+      "level": 31,
+      "chroma_location": "left",
+      "refs": 1,
+      "is_avc": "true",
+      "nal_length_size": "4",
+      "r_frame_rate": "2997/125",
+      "avg_frame_rate": "2997/125",
+      "time_base": "1/11988",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 66082500,
+      "duration": "5512.387387",
+      "bit_rate": "1525977",
+      "bits_per_raw_sample": "8",
+      "nb_frames": "132165",
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "VideoHandler"
+      }
+    },
+    "audio": {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_long_name": "AAC (Advanced Audio Coding)",
+      "profile": "LC",
+      "codec_type": "audio",
+      "codec_time_base": "1/44100",
+      "codec_tag_string": "mp4a",
+      "codec_tag": "0x6134706d",
